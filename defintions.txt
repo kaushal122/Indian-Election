@@ -1,0 +1,10 @@
+Web scraping bots extract all the content, 
+such as text, images or videos from a publicly available web page and stores it as a data file.
+It is similar to taking a picture of a website and analyzing different elements of the picture. 
+The main actor in this case is the web scraper.
+-------------------------------------------------------------------------------------------------------------------------
+API builds an automated data pipeline between a website and the requester targeting a specific part of the website content. 
+Data can be pulled on an automated schedule or manually on demand. 
+It is similar to a subscription where you automatically get an updated content on regular basis. 
+Both the website and the receiver take active role in APIs.
+--------------------------------------------------------------------------------------------------------
