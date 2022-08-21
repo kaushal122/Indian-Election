@@ -8,3 +8,20 @@ Data can be pulled on an automated schedule or manually on demand.
 It is similar to a subscription where you automatically get an updated content on regular basis. 
 Both the website and the receiver take active role in APIs.
 --------------------------------------------------------------------------------------------------------
+Beautiful Soup is a Python library that is used for web scraping purposes to pull the data out of HTML and XML files.
+It creates a parse tree from page source code that can be used to extract data in a hierarchical and more readable manner.
+------------------------------------------------------------------------------------------------------------------------------
+Very fast
+Extremely lenient
+Parses pages the same way a Browser does
+Prettify the Source Code
+Guide To Web Scraping With Python Libraries Selenium & Beautiful Soup
+Scrapy VS Beautiful Soup: A Comparison Of Web Crawling Tools
+Beautiful Soup Primer: How To Scrape Data From A Website
+Top 7 Python Web Scraping Tools For Data Scientists
+Complete Guide To Text Summarizer Using Beautiful Soup
+--------------------------------------------------------------------------------------------------------------------
+Streamlit is an open-source python framework for building web apps for Machine Learning and Data Science.
+We can instantly develop web apps and deploy them easily using Streamlit.
+Streamlit allows you to write an app the same way you write a python code. 
+Streamlit makes it seamless to work on the interactive loop of coding and viewing results in the web app.
